@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 📫 How to reach me modyhesh24@gmail.com
 - 😄 Pronouns: male
-- ⚡ Fun fact: I dont know sadly 
+- ⚡ Fun fact: Bananas are technically berries but strawberries arent. Nature has its plot twists.
 
 <!---
 Mythical365/Mythical365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
